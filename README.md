@@ -1,6 +1,6 @@
 ### Hi there, I am Haison 👋
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" alt="Databay showcase gif" title="Databay showcase gif" width="250"/>
 
 - 🔭 I’m currently working on LivUp
 - 🌱 I’m currently learning RabbitMQ and NestJs
