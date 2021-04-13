@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Haison 👋
+
+https://media.giphy.com/media/oXnN2TNSgfJQI/giphy.gif
 
 - 🔭 I’m currently working on LivUp
 - 🌱 I’m currently learning RabbitMQ and NestJs
