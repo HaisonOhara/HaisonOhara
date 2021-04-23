@@ -1,4 +1,4 @@
-### Hi there, I am Haison 👋
+### Hi everyone, I am Haison 👋
 
 <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" alt="Databay showcase gif" title="Databay showcase gif" width="250"/>
 
